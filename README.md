@@ -2,7 +2,7 @@
 
 Link - https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/#LeaderBoard
 
-/// Rank - 1464 and Root Mean Square Error - 1156.3 ///
+/// Rank - 1510 and Root Mean Square Error - 1156.3 ///
 
 Sales Prediction for Big Mart Outlets Hackathon on Analytics Vidhya
 
